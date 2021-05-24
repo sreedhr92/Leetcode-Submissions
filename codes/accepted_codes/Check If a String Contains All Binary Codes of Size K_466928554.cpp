@@ -1,0 +1,23 @@
+class Solution {
+public:
+    bool hasAllCodes(string s, int k) {
+        set<string> hash;
+        int temp=k;
+        int j;
+        for(int i=0;i<s.size();i++)
+        {
+            string sub;
+            j=i;
+            while(temp && i+k<=s.size())
+            {
+                sub.push_back(s[j]);
+                temp--;
+                j++;
+            }
+            temp=k;
+            if(sub.size()!=0)
+                hash.insert(sub);
+        }
+        return hash.size()==pow(2,temp) ? true:false;
+    }
+};
