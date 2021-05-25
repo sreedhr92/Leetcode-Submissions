@@ -1,3 +1,6 @@
+https://leetcode.com/submissions/detail/497577715/
+https://leetcode.com/submissions/detail/497547524/
+https://leetcode.com/submissions/detail/497547206/
 https://leetcode.com/submissions/detail/497132877/
 https://leetcode.com/submissions/detail/497130489/
 https://leetcode.com/submissions/detail/496965924/
@@ -169,7 +172,6 @@ https://leetcode.com/submissions/detail/472938650/
 https://leetcode.com/submissions/detail/472917236/
 https://leetcode.com/submissions/detail/472908966/
 https://leetcode.com/submissions/detail/472907713/
-https://leetcode.com/submissions/detail/472553214/
 https://leetcode.com/submissions/detail/472370134/
 https://leetcode.com/submissions/detail/472313255/
 https://leetcode.com/submissions/detail/472308884/
@@ -624,13 +626,3 @@ https://leetcode.com/submissions/detail/429806426/
 https://leetcode.com/submissions/detail/429806170/
 https://leetcode.com/submissions/detail/429805715/
 https://leetcode.com/submissions/detail/429797473/
-https://leetcode.com/submissions/detail/429315125/
-https://leetcode.com/submissions/detail/429314653/
-https://leetcode.com/submissions/detail/429314528/
-https://leetcode.com/submissions/detail/429314387/
-https://leetcode.com/submissions/detail/429312694/
-https://leetcode.com/submissions/detail/429310050/
-https://leetcode.com/submissions/detail/429309967/
-https://leetcode.com/submissions/detail/429298316/
-https://leetcode.com/submissions/detail/429298169/
-https://leetcode.com/submissions/detail/428497185/
